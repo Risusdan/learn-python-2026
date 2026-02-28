@@ -88,3 +88,7 @@
 - tox (OPTIONAL)
 - unittest / pyUnit (OPTIONAL)
 - doctest (OPTIONAL)
+
+---
+up:: [MOC-Programming](../../../01-index/MOC-Programming.md)
+#type/learning #source/self-study #status/seed

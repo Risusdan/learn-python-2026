@@ -141,3 +141,5 @@
 **Why It Matters**: FastAPI is the fastest-growing Python web framework because it combines the best ideas: automatic API documentation (OpenAPI/Swagger), Pydantic for validation, native async support, and dependency injection. Building a real API forces you to combine every skill — types, testing, project structure, async, error handling — into a cohesive application. This is where learning becomes practical ability.
 
 ---
+up:: [MOC-Programming](../../../01-index/MOC-Programming.md)
+#type/learning #source/self-study #status/seed
