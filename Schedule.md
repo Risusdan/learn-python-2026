@@ -6,16 +6,16 @@
 
 | Week | Topic                                          | Status         |
 | ---- | ---------------------------------------------- | -------------- |
-| 1    | Basics Review                                  | ⬜ Not started |
-| 2    | Data Structures + Exceptions                   | ⬜ Not started |
-| 3    | Functions, Lambdas, Iterators, Decorators      | ⬜ Not started |
-| 4    | OOP                                            | ⬜ Not started |
-| 5    | Modules, Variable Scope, Regular Expressions   | ⬜ Not started |
-| 6    | File Handling, Context Managers, Comprehensions, Generators | ⬜ Not started |
-| 7    | Package Management + Static Typing             | ⬜ Not started |
-| 8    | Code Quality: ruff + Testing: pytest           | ⬜ Not started |
-| 9    | Concurrency                                    | ⬜ Not started |
-| 10   | FastAPI Framework + Capstone Project            | ⬜ Not started |
+| 1    | Basics Review                                  | ✅ Done |
+| 2    | Data Structures + Exceptions                   | ✅ Done |
+| 3    | Functions, Lambdas, Iterators, Decorators      | ✅ Done |
+| 4    | OOP                                            | ✅ Done |
+| 5    | Modules, Variable Scope, Regular Expressions   | ✅ Done |
+| 6    | File Handling, Context Managers, Comprehensions, Generators | ✅ Done |
+| 7    | Package Management + Static Typing             | ✅ Done |
+| 8    | Code Quality: ruff + Testing: pytest           | ✅ Done |
+| 9    | Concurrency                                    | ✅ Done |
+| 10   | FastAPI Framework + Capstone Project            | ✅ Done |
 
 ---
 
